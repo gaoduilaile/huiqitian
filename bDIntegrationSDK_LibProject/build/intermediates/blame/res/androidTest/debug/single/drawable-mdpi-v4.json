@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android_WorkSpace\\huiqitian\\bDIntegrationSDK_LibProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\bdp_update_logo.png",
+        "source": "D:\\Android_WorkSpace\\huiqitian\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\bdp_update_logo.png"
+    },
+    {
+        "merged": "E:\\gongzuo\\huiqitian\\bDIntegrationSDK_LibProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\bdp_update_logo.png",
+        "source": "E:\\gongzuo\\huiqitian\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\bdp_update_logo.png"
+    },
+    {
+        "merged": "E:\\Android_WorkSpace\\huiqitian\\bDIntegrationSDK_LibProject\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\bdp_update_logo.png",
+        "source": "E:\\Android_WorkSpace\\huiqitian\\bDIntegrationSDK_LibProject\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\bdp_update_logo.png"
+    }
+]
